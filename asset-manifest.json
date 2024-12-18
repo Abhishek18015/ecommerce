@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ecommerce/static/css/main.0b0d1976.css",
+    "main.js": "/ecommerce/static/js/main.41f7539e.js",
+    "static/js/453.ca51a8cb.chunk.js": "/ecommerce/static/js/453.ca51a8cb.chunk.js",
+    "static/media/poster33.webp": "/ecommerce/static/media/poster33.56bfe5ea3181e1f7fd8a.webp",
+    "static/media/poster27.jpg": "/ecommerce/static/media/poster27.fc1f132c3f815a80fe85.jpg",
+    "static/media/poster45.webp": "/ecommerce/static/media/poster45.efe7d01c4d1ac49107bf.webp",
+    "static/media/poster41.webp": "/ecommerce/static/media/poster41.19635e90ed684b88a116.webp",
+    "static/media/poster42.webp": "/ecommerce/static/media/poster42.590e58931e7f2d58d908.webp",
+    "static/media/poster44.webp": "/ecommerce/static/media/poster44.3cff1b9c3f96e513c56b.webp",
+    "static/media/poster32.webp": "/ecommerce/static/media/poster32.c4c94d4d9e383f5d1623.webp",
+    "static/media/poster25.webp": "/ecommerce/static/media/poster25.21032b340df9d1ca60dc.webp",
+    "static/media/poster26.webp": "/ecommerce/static/media/poster26.e6da7bceb0999888cabb.webp",
+    "static/media/poster31.webp": "/ecommerce/static/media/poster31.b16108de85950dad4391.webp",
+    "index.html": "/ecommerce/index.html",
+    "main.0b0d1976.css.map": "/ecommerce/static/css/main.0b0d1976.css.map",
+    "main.41f7539e.js.map": "/ecommerce/static/js/main.41f7539e.js.map",
+    "453.ca51a8cb.chunk.js.map": "/ecommerce/static/js/453.ca51a8cb.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b0d1976.css",
+    "static/js/main.41f7539e.js"
+  ]
+}
