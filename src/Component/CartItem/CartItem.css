@@ -1,0 +1,25 @@
+.cartitems{
+    margin:  100px 170px;
+}
+
+.cartitems-header{
+    display: grid;
+    grid-template-columns: 0.5fr 3fr 1fr 1fr 1fr 1fr;
+    align-items: center;
+    gap: 75px;
+    padding: 20px 0px;
+    color: #454545;
+    font-size: 18px;
+    font-weight: 600;
+}
+.cart-item{
+    font-size: 17px;
+    font-weight: 500;
+}
+.image-item{
+    height: 62px;
+}
+
+.image-item2{
+    width: 30px;
+}
